@@ -121,10 +121,10 @@ REST your steak for 5 to 10 minutes so it sucks its own juices back in and the f
 
 ---
 
-### Chicken noodle soup
+### Tofu noodle soup
 
-- **Ingredients**: 900ml chicken or vegetable stock (or Miso soup mix); 1 boneless, skinless chicken breast (about 175g); 1 tsp chopped fresh ginger; 1 garlic clove, finely chopped; 50g rice or wheat noodles; 2 tbsp sweetcorn, canned or frozen; 2-3 mushrooms, thinly sliced; 2 spring onions, shredded; 2 tsp soy sauce, plus extra for serving; mint or basil leaves and a little shredded chilli (optional), to serve
-- **Instructions**: Pour the stock into a pan and add the chicken breast, ginger and garlic. Bring to the boil, then reduce the heat, partly cover and simmer for 20 mins, until the chicken is tender. Put the chicken on a board and shred into bite-size pieces using a couple of forks. Return the chicken to the stock with the noodles, sweetcorn, mushrooms, spring onion and soy sauce. Simmer for 3-4 mins until the noodles are tender. Ladle into two bowls and scatter over the remaining spring onion, mint or basil leaves and chilli, if using. Serve with extra soy sauce.
+- **Ingredients**: 900ml vegetable stock (or Miso soup mix); 1 chunk of tofu (about 175g); 1 tsp chopped fresh ginger; 1 garlic clove, finely chopped; 50g rice or wheat noodles; 2 tbsp sweetcorn, canned or frozen; 2-3 mushrooms, thinly sliced; 2 spring onions, shredded; 2 tsp soy sauce, plus extra for serving; mint or basil leaves and a little shredded chilli (optional), to serve
+- **Instructions**: Pour the stock into a pan and add the tofu, ginger and garlic. Bring to the boil, then reduce the heat, partly cover and simmer for 20 mins, until the tofu is tender. Put the tofu on a board and shred into bite-size pieces using a couple of forks. Return the tofu to the stock with the noodles, sweetcorn, mushrooms, spring onion and soy sauce. Simmer for 3-4 mins until the noodles are tender. Ladle into two bowls and scatter over the remaining spring onion, mint or basil leaves and chilli, if using. Serve with extra soy sauce.
 
 ---
 
