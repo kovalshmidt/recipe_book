@@ -5,6 +5,13 @@
 
 ---
 
+### Dutch baby
+
+- **Ingredients**: 3 eggs; 1 tbsp sugar; 1 tsp vanilla extract; 100gr white flour; 150ml milk; 25gr butter; icing sugar; berries and mint to serve;
+- **Instructions**: Preheat the oven at 220 deg. C with the pan in it. Mix the eggs with the sugar and vanilla extract. Slowly incorporate the flour mixed with a dash of salt. Finally, add the milk slowly and mix. Remove the pan from the oven and add the knob of butter. After it fully melted, add the batter and put it back in the oven for 18 minutes. After removing from the pan, sprinkle with icing sugar and top with chopped mint and assorted berries.
+
+---
+
 ## Main Dishes
 *(Hearty meals for lunch or dinner)*
 
