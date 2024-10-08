@@ -24,6 +24,15 @@
 
 - **Instructions**: Place the fish, garlic, and egg in the large bowl of a food processor with 1 tsp of the cumin seeds, 1 tsp of the lime zest, and ¾ tsp salt. Blitz briefly, just until the fish forms a coarse paste, then transfer to a medium bowl. Add ½ cup of the cilantro, mix, then form into 12 round fish cakes, each weighing about 1½ oz/45g. Refrigerate for at least 15 minutes (and up to 1 day ahead), to firm up. Put the yogurt, the remaining ½ tsp of the cumin seeds, the remaining lime zest, and ⅛ tsp salt into a small bowl. Mix together and set aside. In a separate small bowl, combine the onion, mango, and chile and set aside. Heat the oil in a large nonstick frying pan and place over medium-high heat. Once the oil is hot, add the fish cakes in batches and fry for 2–3 minutes on each side, until golden brown and cooked through. Transfer to a paper towel–lined plate. Serve each taco warm, with 1 fish cake, cut in half, a spoonful of yogurt, and the mango mix. Finish with a sprinkle of the remaining ½ cup of cilantro and a squeeze of lime.
 
+---
+
+### One-pot cardamom chicken rice
+
+- **Ingredients**: 1 large onion; 6 cardamom pods; 1 piece star anise; 6 garlic cloves; 1 1/2 tsp turmeric; 440g chicken breast; 550ml vegetable stock
+- **Instructions**: Cook the diced onion, cardamom seeds, star anise and a dash of salt in a bit of coconut, avocado or sunflower oil for 10 minutes. Add minced garlic, turmeric and keep cooking for one more minute. Add diced and pre-salted chicken breast and cook for 4 more minutes. Add the vegetable stock and wait for it to simmer. When it starts to simmer, add the basmati rice and cook with a lid for 12 mins at low heat. Take of the heat and keep it covered for 12 more minutes. Add cilantro, dried apricots and crushed almonds as toppings.
+
+---
+
 ## Soups
 *(Warm and comforting dishes)*
 
