@@ -73,6 +73,13 @@
 
 ---
 
+### Pumpkin and lentil cream soup
+
+- **Ingredients**: 1 tbsp olive oil, plus 1 tsp; 2 onions, chopped; 2 garlic cloves, chopped; approx 800g chopped pumpkin flesh, plus the seeds; 100g split red lentil; ½ small pack thyme, leaves picked, plus extra to serve; 1l hot vegetable stock; pinch of salt and sugar; 50g crème fraîche, plus extra to serve;
+- **Instructions**: Heat the oil in a large pan. Fry the onions until softened and starting to turn golden. Stir in the garlic, pumpkin flesh, lentils and thyme, then pour in the hot stock. Season, cover and simmer for 20-25 mins until the lentils and vegetables are tender. Meanwhile, wash the pumpkin seeds. Remove any flesh still clinging to them, then dry them with kitchen paper. Heat the 1 tsp oil in a non-stick pan and fry the seeds until they start to jump and pop. Stir frequently, but cover the pan in between to keep them in it. When the seeds look nutty and toasted, add a sprinkling of salt and a pinch of sugar, and stir well. Whizz the cooked pumpkin mixture with a hand blender or in a food processor until smooth, then add the crème fraîche and whizz again. Taste for seasoning. Serve with a spoonful of crème fraîche, a few thyme leaves and the toasted seeds scattered on top.
+
+---
+
 ## Salads
 *(Fresh and light dishes)*
 
