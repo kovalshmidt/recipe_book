@@ -19,6 +19,13 @@
 
 ---
 
+### Yorkshire puddings
+
+- **Ingredients**: 3 eggs; pinch of salt; pinch of white pepper; 115gr plain flour; 265ml milk; some beef dripping and sunflower oil
+- **Instructions**: Whisk together your eggs, salt and pepper. Then add your flour and mix until no flour is visible (no need to be smooth here). Add your milk in stages of 3, then transfer into a jug suitable for pouring. A few lumps in the batter is fine, don’t overwork it because you’ll develop the gluten. Allow to rest in the fridge for at least 2 hours or overnight for best results. Preheat your oven to 200°c *ignore what I said in the video!* , add 1 teaspoon of dripping and sunflower oil to each hole (these are large Yorkshire puddings, for a smaller tray use 1 tsp). Place in the preheated oven until smoking hot (20 mins), then add your batter to the tray, fill 1/3 of the way. bake in the centre of your oven for 20 mins, flip and bake for 5 more mins. If you find the bottoms aren’t done, drop the temp to 150°c and let em cook for a few extra mins
+
+---
+
 ## Main Dishes
 *(Hearty meals for lunch or dinner)*
 
