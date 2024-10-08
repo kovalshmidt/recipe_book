@@ -135,6 +135,27 @@ REST your steak for 5 to 10 minutes so it sucks its own juices back in and the f
 
 ---
 
+### Shopska salad
+
+- **Ingredients**: 1 large red or orange bell pepper, roasted, skin removed, and coarsely chopped (see step 1, or use one (6-ounce) jar of roasted red peppers); 5 to 6 campari tomatoes (or 3 Roma tomatoes), quartered; 1/2 English cucumber, sliced into 1/4-inch half moons; 1/4 cup finely chopped Italian parsley; 2 shallots or 1 small red onion, chopped; Kosher salt; 2 tablespoons red wine vinegar; Extra virgin olive oil; 1/2 cup feta cheese, grated or crumbled; 1/4 cup pitted kalamata olives
+- **Instructions**: If you’re using fresh bell pepper, begin by roasting the pepper. If you have a gas stove, roast the pepper directly over medium-high flames, turning with a pair of tongs every few minutes until the pepper has softened fully and charred well on all sides (about 15 minutes). Or, roast on a sheet pan in a 450°F, turning until charred on all sides (about 15 minutes). Transfer the charred pepper to a bowl and cover tightly with plastic wrap. Set aside for 10 minutes while you work on other things. When the pepper has cooled enough to handle, peel the charred skin off and coarsely chop into bite sized pieces. Mix: In a medium salad bowl, add the pepper, tomatoes, cucumber, parsley, and shallot. Sprinkle with a big pinch of kosher salt. Add the vinegar and a good drizzle of olive oil (about 2 tablespoons). Toss to combine. Finish: Transfer the salad to a serving platter. Top with feta cheese and olives. Serve.
+
+---
+
+### Turkish shepherd salad
+
+- **Ingredients**: 3 Roma tomatoes, seeded and chopped; 2 cucumbers, seeded and chopped; 1 bunch parsley, leaves picked, not chopped; 50g pitted and halved black olives; 1/2 small red onion, chopped; 2 tbsp cider vinegar; 2 tbsp lemon juice; 4 tbsp olive oil; Salt and freshly ground black pepper; 225g Greek feta cheese, diced;
+- **Instructions**: Toss together all ingredients except feta cheese in a large bowl. Let sit at room temperature for 1 hour to allow flavors to develop. Toss in the feta cheese just before serving and taste for seasoning and adjust seasoning, if necessary.
+
+---
+
+### Simple side salad
+
+- **Ingredients**: 2 tomatoes; 2 small cucumbers; 1 onion; vinegar; salt; olive oil;
+- **Instructions**: Slice and toss the ingredients. Serve immediately
+
+---
+
 ## Desserts
 *(Sweet treats to enjoy after a meal)*
 
