@@ -12,6 +12,13 @@
 
 ---
 
+### Buttery blueberry muffins
+
+- **Ingredients**: 550g Plain Flour; 1tsp Baking Powder; 1tsp Salt; 230g Caster Sugar; 350g Unsalted butter (diced); 1tsp Vanilla extract; 2 Large eggs; 200ml Whole milk; Blueberries
+- **Instructions**: Preset oven to 160 deg C. fan; Mix the flour with the baking powder, salt and sugar. Add the butter cubes and rub it all together until you get breadcrumbs. Add the vanilla extract and the eggs and start mixing. Slowly incorporate the milk in 3 rounds. Take a spoonful of mixture and pop it in the muffin tray. Use either paper or silicone molds to avoid a mess. Top with blueberries. Bake for about 20-25 minutes until golden brown. When you touch it it’s crispy and it bounces back. If it leaves a fingerprint put it back in the oven.
+
+---
+
 ## Main Dishes
 *(Hearty meals for lunch or dinner)*
 
