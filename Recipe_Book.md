@@ -97,7 +97,7 @@ REST your steak for 5 to 10 minutes so it sucks its own juices back in and the f
 
 ### Biryani
 
-- **Ingredients** : 300g basmati rice, Chicken 250g, 25g butter, 1 large onion, finely sliced, Curd, Biryani Masala, Chopped Mint leafs, Chopped Coriander Leafs
+- **Ingredients** : 300g basmati rice, Mixed vegetable  250g, 25g butter, 1 large onion, finely sliced, Curd, Biryani Masala, Chopped Mint leafs, Chopped Coriander Leafs
 
 - **Instructions** : 
 - STEP 1
@@ -105,7 +105,7 @@ REST your steak for 5 to 10 minutes so it sucks its own juices back in and the f
 - STEP 2
   Heat 25g butter in a saucepan and cook 1 finely sliced large onion with 1 bay leaf, 3 cardamom pods and 1 small cinnamon stick for 10 mins.
 - STEP 3
-  Sprinkle in 1 tsp turmeric, then add 4 chicken breasts, cut into large chunks, and 4 tbsp curry paste. Cook until aromatic.
+  Sprinkle in 1 tsp turmeric, then add mixed vegetable, and 4 tbsp curry paste. Cook until aromatic.
 - STEP 4
   Stir the rice into the pan with 85g raisins, then pour over 850ml chicken stock.
 - STEP 5
