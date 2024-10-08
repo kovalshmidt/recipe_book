@@ -72,3 +72,11 @@
 - **Ingredients**: 1 1/2 ounces amaretto liqueur; 3/4 ounce cask-proof bourbon; 1 ounce lemon juice, freshly squeezed; 1 teaspoon rich simple syrup; 1/2 ounce egg white; Garnish: lemon twist; Garnish: 2 brandied cherries
 - **Instructions**: Add amaretto, bourbon, lemon juice, simple syrup and egg white to a shaker and dry-shake (no ice) for 15 seconds. Add ice and shake again until well-chilled. Strain into a rocks glass over fresh ice. Garnish with a lemon twist and 2 skewered brandied cherries. 
 
+
+---
+
+### Old-fashioned
+
+- **Ingredients**: 2 tsp sugar syrup or 1 tsp granulated sugar; 1-2 dashes bitters; splash of water; 60ml Scotch whisky or bourbon; soda water (optional); orange slice; maraschino cherry (optional)
+- **Instructions**: Put the sugar, bitters and water in a small tumbler. Mix until the sugar dissolves if using granulated. Fill your glass with ice and stir in the whisky. Add a splash of soda water if you like and mix. Garnish with the orange and cherry.
+
