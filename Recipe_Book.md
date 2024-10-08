@@ -3,6 +3,12 @@
 ## Breakfasts
 *(Add your favorite breakfast recipes here)*
 
+### Idli
+
+- **Ingredients** : black gram batter, salt to taste
+
+- **Instructions** : The batter is allowed to ferment until it increases in volume. 
+   Later the batter is steamed in a special and unique cookware traditionally used for making idli.
 ---
 
 ## Main Dishes
@@ -27,7 +33,6 @@
   Place a tight-fitting lid on the pan and bring to a hard boil, then lower the heat to a minimum and cook the rice for another 5 mins.
 - STEP 6
   Turn off the heat and leave for 10 mins. Stir well, mixing through 15g chopped coriander. To serve, scatter over the leaves of the remaining 15g coriander and 2 tbsp toasted almonds.
-
 ---
 
 
