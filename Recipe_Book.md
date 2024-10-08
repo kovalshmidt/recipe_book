@@ -59,3 +59,10 @@
 
 ## Cocktails
 *(Refreshing drinks for any occasion)*
+
+### Negroni
+
+- **Ingredients**: 1 ounce gin; 1 ounce Campari; 1 ounce sweet vermouth; Garnish: orange peel
+- **Instructions**: Add the gin, Campari and sweet vermouth to a mixing glass filled with ice, and stir until well-chilled. Strain into a rocks glass over a large ice cube. Garnish with an orange peel. 
+
+---
