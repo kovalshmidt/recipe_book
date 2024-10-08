@@ -2,6 +2,8 @@
 
 ## Breakfasts
 
+---
+
 ### Granola Recipe Print-Friendly:
 
 - **Ingredients**: 
@@ -46,7 +48,14 @@ hands and store in an airtight container at room temperature.
 - **Ingredients**: 3 eggs; pinch of salt; pinch of white pepper; 115gr plain flour; 265ml milk; some beef dripping and sunflower oil
 - **Instructions**: Whisk together your eggs, salt and pepper. Then add your flour and mix until no flour is visible (no need to be smooth here). Add your milk in stages of 3, then transfer into a jug suitable for pouring. A few lumps in the batter is fine, don’t overwork it because you’ll develop the gluten. Allow to rest in the fridge for at least 2 hours or overnight for best results. Preheat your oven to 200°c *ignore what I said in the video!* , add 1 teaspoon of dripping and sunflower oil to each hole (these are large Yorkshire puddings, for a smaller tray use 1 tsp). Place in the preheated oven until smoking hot (20 mins), then add your batter to the tray, fill 1/3 of the way. bake in the centre of your oven for 20 mins, flip and bake for 5 more mins. If you find the bottoms aren’t done, drop the temp to 150°c and let em cook for a few extra mins
 
+### Idli
+
+- **Ingredients** : black gram batter, salt to taste
+
+- **Instructions** : The batter is allowed to ferment until it increases in volume. 
+   Later the batter is steamed in a special and unique cookware traditionally used for making idli.
 ---
+
 
 ## Main Dishes
 <<<<<<< HEAD
@@ -58,6 +67,8 @@ hands and store in an airtight container at room temperature.
     <small>Vitaliy</small>
 </div>
 =======
+
+---
 
 ### How to cook steak – the cheffy way!
 
@@ -83,6 +94,26 @@ REST your steak for 5 to 10 minutes so it sucks its own juices back in and the f
 >>>>>>> 49ebc2d6677a4faec3c1bbac30c28e95546e4292
 
 ---
+
+### Biryani
+
+- **Ingredients** : 300g basmati rice, Chicken 250g, 25g butter, 1 large onion, finely sliced, Curd, Biryani Masala, Chopped Mint leafs, Chopped Coriander Leafs
+
+- **Instructions** : 
+- STEP 1
+  Soak 300g basmati rice in warm water, then wash in cold until the water runs clear.
+- STEP 2
+  Heat 25g butter in a saucepan and cook 1 finely sliced large onion with 1 bay leaf, 3 cardamom pods and 1 small cinnamon stick for 10 mins.
+- STEP 3
+  Sprinkle in 1 tsp turmeric, then add 4 chicken breasts, cut into large chunks, and 4 tbsp curry paste. Cook until aromatic.
+- STEP 4
+  Stir the rice into the pan with 85g raisins, then pour over 850ml chicken stock.
+- STEP 5
+  Place a tight-fitting lid on the pan and bring to a hard boil, then lower the heat to a minimum and cook the rice for another 5 mins.
+- STEP 6
+  Turn off the heat and leave for 10 mins. Stir well, mixing through 15g chopped coriander. To serve, scatter over the leaves of the remaining 15g coriander and 2 tbsp toasted almonds.
+---
+
 
 ### Garlic shrimp with wine and tomatoes
 
@@ -142,6 +173,7 @@ REST your steak for 5 to 10 minutes so it sucks its own juices back in and the f
 
 ## Salads
 *(Fresh and light dishes)*
+<<<<<<< HEAD
 ### Salad with tomatoes
 - **Ingredients**: Tomatoes, cucumbers, onions, olive oil.
 - **Instructions**: Cut tomatoes, cucumbers, onion. In a bowl,  add olive oil. Add salt and chilli.
@@ -149,6 +181,15 @@ REST your steak for 5 to 10 minutes so it sucks its own juices back in and the f
     <small>Vitaliy</small>
 </div>
 
+=======
+### Chickpea Salad
+- **Ingredients**: Chickpeas, Grape tomatoes, English cucumber, Pickled red onions, Kalamata olives, Fresh parsley, dill, and mint, lemon.
+- **Instructions**:
+- First, make the dressing. Whisk together the olive oil, lemon juice, mustard, garlic, salt, and several grinds of pepper at the bottom of a large bowl.
+- Next, add the chickpeas, olives, pickled onions, and veggies. Toss to coat these hearty ingredients in the dressing.
+- Then, add the fresh herbs. Toss again, making sure the salad ingredients are well combined.
+- Finally, season to taste and serve! If I’m making this salad for a summer gathering or special occasion, I like to shower it with more fresh mint leaves before serving.
+>>>>>>> dec023a75ad9ef5cdb105d9eb7b9fe90b0ada112
 ---
 
 ### Shopska salad
@@ -174,6 +215,28 @@ REST your steak for 5 to 10 minutes so it sucks its own juices back in and the f
 
 ## Desserts
 *(Sweet treats to enjoy after a meal)*
+
+---
+
+### Apple strudel
+
+- **Ingredients**: 1 medium Granny Smith apple - peeled, cored and coarsely shredded; 2 medium Granny Smith apples - peeled, cored and sliced; 3/4 cup light brown sugar; 3/4 cup golden raisins; 2 tablespoons all purpose flour, plus more for dusting; 2 sheets frozen puff pastry, thawed; 1/2 teaspoon kosher salt; 1 large egg; 1 tablespoon whole milk
+- **Instructions**: Preheat the oven to 400 degrees F (200 degrees C). Line a large rimmed baking sheet with parchment paper. Place shredded and chopped apples in a large bowl. Stir in brown sugar, golden raisins, flour, and salt; set aside. Working with one sheet at a time, place puff pastry on a lightly floured work surface. Roll lightly with a rolling pin into an approximately 10- x 12-inch rectangle. Arrange 1/2 of the apple filling (about 3 cups) down one side of pastry lengthwise. Fold pastry lengthwise over apple mixture; dampen edges of pastry with water, then press or crimp edges to seal. Repeat process with 2nd pastry sheet and remaining apple mixture. Transfer to prepared baking sheet, leaving at least 2-inches between each pastry. Whisk egg and milk together in a small bowl; brush on top of each pastry. Cut 3 or 4 slits on top of each pastry to allow steam to escape. Bake until golden brown, 30-35 min.
+
+
+---
+
+## Dulche de leche
+
+- **Ingredients**: 14 oz sweetened condensed milk
+- **Instructions**: Remove the label rom your can. You can use more cans if you'd like more dulce de leche, you're just limited by the space In your pot. Place can(s) In a pot large enough to accommodate them. Fill with water so the cans are submerged by 1-2 inches and place over medium high heat. As soon as the water comes to a boil reduce to a simmer then just keep an occasional eye on the water level and refill as necessary. 2 hours of simmering will give you a light golden color while 3 will yield a darker amber color with a richer flavor.
+
+---
+
+## Vanilla Ice cream
+
+- **Ingredients**: 1½ cups heavy cream; 1½ cups whole milk; ⅔ cup cane sugar; 2 teaspoons vanilla extract;⅛ teaspoon sea salt---
+- **Instructions**: In a medium saucepan, combine the cream, milk, sugar, vanilla, and salt. Warm over medium-low heat, whisking often, for 5 minutes, or until the sugar dissolves and the mixture is warmed through. Pour into a heatproof bowl, cover, and chill for 2 hours or overnight. Remove the chilled ice cream base from the fridge and whisk well. Churn in an ice cream maker according to the manufacturer’s instructions, typically 20 to 30 minutes. The ice cream will be soft after churning. For firmer ice cream, transfer to an airtight container and freeze for 2 to 4 hours before serving. Store in an airtight container in the freezer for up to a month. If the ice cream is too firm to scoop straight from the freezer, let sit at room temperature for a few minutes to soften.
 
 ---
 
