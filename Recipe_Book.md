@@ -66,3 +66,9 @@
 - **Instructions**: Add the gin, Campari and sweet vermouth to a mixing glass filled with ice, and stir until well-chilled. Strain into a rocks glass over a large ice cube. Garnish with an orange peel. 
 
 ---
+
+### Amaretto Sour
+
+- **Ingredients**: 1 1/2 ounces amaretto liqueur; 3/4 ounce cask-proof bourbon; 1 ounce lemon juice, freshly squeezed; 1 teaspoon rich simple syrup; 1/2 ounce egg white; Garnish: lemon twist; Garnish: 2 brandied cherries
+- **Instructions**: Add amaretto, bourbon, lemon juice, simple syrup and egg white to a shaker and dry-shake (no ice) for 15 seconds. Add ice and shake again until well-chilled. Strain into a rocks glass over fresh ice. Garnish with a lemon twist and 2 skewered brandied cherries. 
+
