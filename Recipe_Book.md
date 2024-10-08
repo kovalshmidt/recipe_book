@@ -198,6 +198,28 @@ REST your steak for 5 to 10 minutes so it sucks its own juices back in and the f
 
 ---
 
+### Apple strudel
+
+- **Ingredients**: 1 medium Granny Smith apple - peeled, cored and coarsely shredded; 2 medium Granny Smith apples - peeled, cored and sliced; 3/4 cup light brown sugar; 3/4 cup golden raisins; 2 tablespoons all purpose flour, plus more for dusting; 2 sheets frozen puff pastry, thawed; 1/2 teaspoon kosher salt; 1 large egg; 1 tablespoon whole milk
+- **Instructions**: Preheat the oven to 400 degrees F (200 degrees C). Line a large rimmed baking sheet with parchment paper. Place shredded and chopped apples in a large bowl. Stir in brown sugar, golden raisins, flour, and salt; set aside. Working with one sheet at a time, place puff pastry on a lightly floured work surface. Roll lightly with a rolling pin into an approximately 10- x 12-inch rectangle. Arrange 1/2 of the apple filling (about 3 cups) down one side of pastry lengthwise. Fold pastry lengthwise over apple mixture; dampen edges of pastry with water, then press or crimp edges to seal. Repeat process with 2nd pastry sheet and remaining apple mixture. Transfer to prepared baking sheet, leaving at least 2-inches between each pastry. Whisk egg and milk together in a small bowl; brush on top of each pastry. Cut 3 or 4 slits on top of each pastry to allow steam to escape. Bake until golden brown, 30-35 min.
+
+
+---
+
+## Dulche de leche
+
+- **Ingredients**: 14 oz sweetened condensed milk
+- **Instructions**: Remove the label rom your can. You can use more cans if you'd like more dulce de leche, you're just limited by the space In your pot. Place can(s) In a pot large enough to accommodate them. Fill with water so the cans are submerged by 1-2 inches and place over medium high heat. As soon as the water comes to a boil reduce to a simmer then just keep an occasional eye on the water level and refill as necessary. 2 hours of simmering will give you a light golden color while 3 will yield a darker amber color with a richer flavor.
+
+---
+
+## Vanilla Ice cream
+
+- **Ingredients**: 1½ cups heavy cream; 1½ cups whole milk; ⅔ cup cane sugar; 2 teaspoons vanilla extract;⅛ teaspoon sea salt---
+- **Instructions**: In a medium saucepan, combine the cream, milk, sugar, vanilla, and salt. Warm over medium-low heat, whisking often, for 5 minutes, or until the sugar dissolves and the mixture is warmed through. Pour into a heatproof bowl, cover, and chill for 2 hours or overnight. Remove the chilled ice cream base from the fridge and whisk well. Churn in an ice cream maker according to the manufacturer’s instructions, typically 20 to 30 minutes. The ice cream will be soft after churning. For firmer ice cream, transfer to an airtight container and freeze for 2 to 4 hours before serving. Store in an airtight container in the freezer for up to a month. If the ice cream is too firm to scoop straight from the freezer, let sit at room temperature for a few minutes to soften.
+
+---
+
 ## Cocktails
 *(Refreshing drinks for any occasion)*
 
