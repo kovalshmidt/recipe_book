@@ -75,7 +75,13 @@
 
 ## Salads
 *(Fresh and light dishes)*
-
+### Chickpea Salad
+- **Ingredients**: Chickpeas, Grape tomatoes, English cucumber, Pickled red onions, Kalamata olives, Fresh parsley, dill, and mint, lemon.
+- **Instructions**:
+- First, make the dressing. Whisk together the olive oil, lemon juice, mustard, garlic, salt, and several grinds of pepper at the bottom of a large bowl.
+- Next, add the chickpeas, olives, pickled onions, and veggies. Toss to coat these hearty ingredients in the dressing.
+- Then, add the fresh herbs. Toss again, making sure the salad ingredients are well combined.
+- Finally, season to taste and serve! If I’m making this salad for a summer gathering or special occasion, I like to shower it with more fresh mint leaves before serving.
 ---
 
 ## Desserts
