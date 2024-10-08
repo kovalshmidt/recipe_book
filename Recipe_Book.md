@@ -66,6 +66,11 @@
 ## Soups
 *(Warm and comforting dishes)*
 
+### Baked peppers soup
+
+- **Ingredients**: 6 red peppers; 2 red onions; 3 tbsp olive oil plus extra for drizzling on top; 8 dried tomatoes, roughly chopped; 1/2 tsp chili flakes or 2 tsp smoked paprika; 400gr can of cherry tomatoes, or regular canned tomatoes (pelati / polpa); 800ml vegetable stock; 1 1/2 tbsp sugar (only used if using regular canned tomatoes)
+- **Instructions**: Set the oven at 200 deg. C. Peel the peppers as best as you can, clean the seeds and cut them in 1cm thick strips. Slice the onion and mix with the peppers and some olive oil. Bake for 25-30 min, mixing if getting burned. Heat up the remaining 1 tbsp of olive oil in a pot and add the roasted vegetables, as well as the dried tomatoes, chili flakes (or paprika) and the crushed garlic. Cook for 1-2 min and add the tomatoes and vegetable stock. If using regular canned tomatoes, add 1 1/2 tbsp sugar. Let it cool down ad blend with a hand blender. Serve with some pesto and basil leaves. You ca make pesto thinner by adding extra olive oil to it.
+
 ---
 
 ## Salads
