@@ -2,6 +2,8 @@
 
 ## Breakfasts
 
+---
+
 ### Granola Recipe Print-Friendly:
 
 - **Ingredients**: 
@@ -48,7 +50,10 @@ hands and store in an airtight container at room temperature.
 
 ---
 
+
 ## Main Dishes
+
+---
 
 ### How to cook steak – the cheffy way!
 
