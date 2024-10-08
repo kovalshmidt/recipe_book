@@ -2,6 +2,8 @@
 
 ## Breakfasts
 
+---
+
 ### Granola Recipe Print-Friendly:
 
 - **Ingredients**: 
@@ -54,7 +56,10 @@ hands and store in an airtight container at room temperature.
    Later the batter is steamed in a special and unique cookware traditionally used for making idli.
 ---
 
+
 ## Main Dishes
+
+---
 
 ### How to cook steak – the cheffy way!
 
