@@ -107,6 +107,25 @@ REST your steak for 5 to 10 minutes so it sucks its own juices back in and the f
 ## Soups
 *(Warm and comforting dishes)*
 
+### Baked peppers soup
+
+- **Ingredients**: 6 red peppers; 2 red onions; 3 tbsp olive oil plus extra for drizzling on top; 8 dried tomatoes, roughly chopped; 1/2 tsp chili flakes or 2 tsp smoked paprika; 400gr can of cherry tomatoes, or regular canned tomatoes (pelati / polpa); 800ml vegetable stock; 1 1/2 tbsp sugar (only used if using regular canned tomatoes)
+- **Instructions**: Set the oven at 200 deg. C. Peel the peppers as best as you can, clean the seeds and cut them in 1cm thick strips. Slice the onion and mix with the peppers and some olive oil. Bake for 25-30 min, mixing if getting burned. Heat up the remaining 1 tbsp of olive oil in a pot and add the roasted vegetables, as well as the dried tomatoes, chili flakes (or paprika) and the crushed garlic. Cook for 1-2 min and add the tomatoes and vegetable stock. If using regular canned tomatoes, add 1 1/2 tbsp sugar. Let it cool down ad blend with a hand blender. Serve with some pesto and basil leaves. You ca make pesto thinner by adding extra olive oil to it.
+
+---
+
+### Pumpkin and lentil cream soup
+
+- **Ingredients**: 1 tbsp olive oil, plus 1 tsp; 2 onions, chopped; 2 garlic cloves, chopped; approx 800g chopped pumpkin flesh, plus the seeds; 100g split red lentil; ½ small pack thyme, leaves picked, plus extra to serve; 1l hot vegetable stock; pinch of salt and sugar; 50g crème fraîche, plus extra to serve;
+- **Instructions**: Heat the oil in a large pan. Fry the onions until softened and starting to turn golden. Stir in the garlic, pumpkin flesh, lentils and thyme, then pour in the hot stock. Season, cover and simmer for 20-25 mins until the lentils and vegetables are tender. Meanwhile, wash the pumpkin seeds. Remove any flesh still clinging to them, then dry them with kitchen paper. Heat the 1 tsp oil in a non-stick pan and fry the seeds until they start to jump and pop. Stir frequently, but cover the pan in between to keep them in it. When the seeds look nutty and toasted, add a sprinkling of salt and a pinch of sugar, and stir well. Whizz the cooked pumpkin mixture with a hand blender or in a food processor until smooth, then add the crème fraîche and whizz again. Taste for seasoning. Serve with a spoonful of crème fraîche, a few thyme leaves and the toasted seeds scattered on top.
+
+---
+
+### Chicken noodle soup
+
+- **Ingredients**: 900ml chicken or vegetable stock (or Miso soup mix); 1 boneless, skinless chicken breast (about 175g); 1 tsp chopped fresh ginger; 1 garlic clove, finely chopped; 50g rice or wheat noodles; 2 tbsp sweetcorn, canned or frozen; 2-3 mushrooms, thinly sliced; 2 spring onions, shredded; 2 tsp soy sauce, plus extra for serving; mint or basil leaves and a little shredded chilli (optional), to serve
+- **Instructions**: Pour the stock into a pan and add the chicken breast, ginger and garlic. Bring to the boil, then reduce the heat, partly cover and simmer for 20 mins, until the chicken is tender. Put the chicken on a board and shred into bite-size pieces using a couple of forks. Return the chicken to the stock with the noodles, sweetcorn, mushrooms, spring onion and soy sauce. Simmer for 3-4 mins until the noodles are tender. Ladle into two bowls and scatter over the remaining spring onion, mint or basil leaves and chilli, if using. Serve with extra soy sauce.
+
 ---
 
 ## Salads
