@@ -1,7 +1,8 @@
 # Recipe Book
 
+## Breakfasts
 
-###Granola Recipe Print-Friendly:
+### Granola Recipe Print-Friendly:
 
 - **Ingredients**: 
 Servings: 24 1/4 cup servings (makes 6 cups total)
@@ -48,7 +49,8 @@ hands and store in an airtight container at room temperature.
 ---
 
 ## Main Dishes
-###How to cook steak – the cheffy way!
+
+### How to cook steak – the cheffy way!
 
 - **Ingredients**: 
 
