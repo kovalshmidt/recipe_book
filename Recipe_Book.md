@@ -1,29 +1,29 @@
 # Recipe Book
 
 ## Breakfasts
-*(Add your favorite breakfast recipes here)*
+My favorite breakfast
 
 ---
 
 ## Main Dishes
-*(Hearty meals for lunch or dinner)*
+My Dishes
 
 ---
 
 ## Soups
-*(Warm and comforting dishes)*
+My soup
 
 ---
 
 ## Salads
-*(Fresh and light dishes)*
+My salad
 
 ---
 
 ## Desserts
-*(Sweet treats to enjoy after a meal)*
+My Desserts
 
 ---
 
 ## Cocktails
-*(Refreshing drinks for any occasion)*
+My Cocktails
