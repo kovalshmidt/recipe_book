@@ -82,32 +82,39 @@ git commit -m "added Spaghetti Bolognese"
 ## 4. Merge Changes
 After you have created three recipes in your branch, merge the latest changes from the development branch into your custom branch to ensure your branch is up to date:
 
+### Option 1
 ```
 git checkout development
 git pull origin development  # Update local development with any changes
 git checkout vk_27_main_dishes   # Switch back to your branch
 git merge development         # Merge changes from development into your branch
 ```
+
+### Option 2
+While on your branch
+```
+git fetch #get the changes from remote into your local metadata
+git rebase origin/development rebase the changes from remote development into your local branch
+```
 Resolve any conflicts you may encounter.
 
-## 5. Tag Your Merge Commits
-After merging your branch into `development`, tag your merge commit with a descriptive tag name. Use one of the following formats:
-
-```
-git tag -a <intials>_<section_in_lowercase> -m "Description"
-git tag -a vk_main_dishes -m "Merged vk_27_main_dishes into development"
-```
-Push your tags to origin.
-
-## 6. Push Your Changes
+## 5. Push Your Changes
 Once the merge is successful and there are no conflicts, push your branch back to the development branch:
 ```
 git checkout development
 git merge vk_27_main_dishes      # Merge your changes into development
 git push origin development   # Push changes to the remote repository
 ```
+Push your tags to origin.
 If you encounter any merge conflicts, carefully resolve them and ensure that your final recipe is added correctly.
 
+## 6. Tag Your Merge Commits
+After merging your branch into `development`, tag your merge commit with a descriptive tag name. Use one of the following formats:
+
+```
+git tag -a <intials>_<section_in_lowercase> -m "Description"
+git tag -a vk_main_dishes -m "Merged vk_27_main_dishes into development"
+```
 
 ## Optional
 Create a branch for each section `<vg>_<initials>_<year_of_birth>_<recipe_section>` in which you have to modify each recipe that was introduced by you, so that it becomes vegetarian.
