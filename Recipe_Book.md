@@ -14,15 +14,16 @@
 <div style="text-align: right;">
     <small>Vitaliy</small>
 </div>
----
-
-## Soups
-*(Warm and comforting dishes)*
 
 ---
 
 ## Salads
 *(Fresh and light dishes)*
+
+---
+
+## Soups
+*(Warm and comforting dishes)*
 
 ---
 
